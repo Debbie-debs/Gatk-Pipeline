@@ -10,7 +10,7 @@ This is the first class for git
 
 *italics*
 
--list
--list
--list
+- list
+- list
+- list
 
